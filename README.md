@@ -20,7 +20,7 @@ Referensi:
 2. Clone this repo
 
 ```sh
-git clone https://
+git clone https://github.com/nekoding/mapbox-nats.git
 ```
   
 3. Install dependency using bun / npm / pnpm
